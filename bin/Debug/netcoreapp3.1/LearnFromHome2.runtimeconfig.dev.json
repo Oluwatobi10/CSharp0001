@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Oghale Goodness\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Oghale Goodness\\.nuget\\packages"
+    ]
+  }
+}
