@@ -71,9 +71,9 @@ namespace LearnFromHome2
     {
         public static void Main()
         {
-            GenerateX qr = new GenerateX();
-            qr.read();
-            qr.solve();
+            GenerateX qr = new GenerateX(); //where did you get this from...
+            qr.read(); //this questions are simple maths na...
+            qr.solve(); //i will beat you Goodness
         }
     }
 
